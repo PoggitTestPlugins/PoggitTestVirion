@@ -1,6 +1,6 @@
 name: poggittestvirion
 version: 2.1.0
 antigen: dktapps\pmforms
-api: [3.0.0, 4.0.5, 5.0.0, 6.0.0]
+php: 8.0
 authors: [dktapps]
 description: Create basic UIs in Minecraft Bedrock
